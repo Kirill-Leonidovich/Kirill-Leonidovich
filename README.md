@@ -13,7 +13,7 @@
 ### Follow me:
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0a66c2?style=for-the-badge&logo=Linkedin&logoColor=ffffff&logoWidth=20)](https://www.linkedin.com/in/kirill-alkhimenok-a58524220/)
 [![Freelancehunt](https://img.shields.io/badge/-freelancehunt-d9aa38?style=for-the-badge&logo=Freelancehunt&logoColor=ffffff&logoWidth=20)](https://freelancehunt.com/my)
-[![Codewars](https://img.shields.io/badge/-Codewars-b1361e?style=for-the-badge&logo=Codewars&logoColor=ffffff&logoWidth=20)](https://www.codewars.com/users/Alkhimenok)
+[![Codewars](https://img.shields.io/badge/-Codewars-b1361e?style=for-the-badge&logo=Codewars&logoColor=ffffff&logoWidth=20)](https://www.codewars.com/users/kirill-leonidovich)
 [![Telegram](https://img.shields.io/badge/-Telegram-27A0D9?style=for-the-badge&logo=Telegram&logoColor=ffffff&logoWidth=20)](https://t.me/joinchat/TnA5p8v4nAj99aZ3)
 [![Facebook](https://img.shields.io/badge/-Facebook-1195F5?style=for-the-badge&logo=Facebook&logoColor=ffffff&logoWidth=20)](https://www.facebook.com/profile.php?id=100072407994592) 
 [![Instagram](https://img.shields.io/badge/-Instagram-B4068E?style=for-the-badge&logo=Instagram&logoColor=ffffff&logoWidth=20)](https://www.instagram.com/web__proger/)
