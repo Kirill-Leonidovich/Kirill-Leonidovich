@@ -1,6 +1,6 @@
 # Frontend developer
 
-### I own technologies such as:
+### Skills:
 ![HTML](https://img.shields.io/badge/-HTML-db4925?style=for-the-badge&logo=HTML5&logoColor=ffffff&logoWidth=20)
 ![CSS](https://img.shields.io/badge/-CSS-28a1d4?style=for-the-badge&logo=CSS3&logoColor=ffffff&logoWidth=20)
 ![SCSS](https://img.shields.io/badge/-SCSS-c36291?style=for-the-badge&logo=SASS&logoColor=ffffff&logoWidth=20)
@@ -11,16 +11,21 @@
 <br>
 
 ### Follow me:
-[![Linkedin](https://img.shields.io/badge/-Linkedin-0a66c2?style=for-the-badge&logo=Linkedin&logoColor=ffffff&logoWidth=20)](https://www.linkedin.com/in/kirill-alkhimenok-a58524220/)
-[![Freelancehunt](https://img.shields.io/badge/-freelancehunt-d9aa38?style=for-the-badge&logo=Freelancehunt&logoColor=ffffff&logoWidth=20)](https://freelancehunt.com/my)
-[![Codewars](https://img.shields.io/badge/-Codewars-b1361e?style=for-the-badge&logo=Codewars&logoColor=ffffff&logoWidth=20)](https://www.codewars.com/users/kirill-leonidovich)
-[![Telegram](https://img.shields.io/badge/-Telegram-27A0D9?style=for-the-badge&logo=Telegram&logoColor=ffffff&logoWidth=20)](https://t.me/joinchat/TnA5p8v4nAj99aZ3)
-[![Facebook](https://img.shields.io/badge/-Facebook-1195F5?style=for-the-badge&logo=Facebook&logoColor=ffffff&logoWidth=20)](https://www.facebook.com/profile.php?id=100072407994592) 
+[![Telegram](https://img.shields.io/badge/-Telegram-27a7e5?style=for-the-badge&logo=Telegram&logoColor=ffffff&logoWidth=20)](https://t.me/joinchat/TnA5p8v4nAj99aZ3)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=for-the-badge&logo=Facebook&logoColor=ffffff&logoWidth=20)](https://www.facebook.com/profile.php?id=100072407994592) 
 [![Instagram](https://img.shields.io/badge/-Instagram-B4068E?style=for-the-badge&logo=Instagram&logoColor=ffffff&logoWidth=20)](https://www.instagram.com/frontend_proger/)
+![Twitter](https://img.shields.io/badge/-Twitter-1d9bf0?style=for-the-badge&logo=Twitter&logoColor=ffffff&logoWidth=20)
 
 <br>
 
-### My stats:
+### Other:
+[![Linkedin](https://img.shields.io/badge/-Linkedin-0a66c2?style=for-the-badge&logo=Linkedin&logoColor=ffffff&logoWidth=20)](https://www.linkedin.com/in/kirill-alkhimenok-a58524220/)
+[![Freelancehunt](https://img.shields.io/badge/-freelancehunt-d9aa38?style=for-the-badge&logo=icon&logoColor=ffffff&logoWidth=20)](https://freelancehunt.com/my)
+[![Codewars](https://img.shields.io/badge/-Codewars-b1361e?style=for-the-badge&logo=Codewars&logoColor=ffffff&logoWidth=20)](https://www.codewars.com/users/kirill-leonidovich)
+
+<br>
+
+### Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kirill-Leonidovich&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirill-Leonidovich&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -28,7 +33,3 @@
 
 ### You can also see my projects:
 [![go to portfolio](https://img.shields.io/badge/-go_to_portfolio-0a66c2?style=for-the-badge)](https://kirill-leonidovich.github.io)
-
-
-
-[freelacnehustIcon]:https://img.shields.io/badge/-freelancehunt-d9aa38?style=for-the-badge&logo=&logoColor=ffffff&logoWidth=20
