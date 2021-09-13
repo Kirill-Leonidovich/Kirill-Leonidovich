@@ -13,15 +13,16 @@
 ### Follow me:
 [![Telegram](https://img.shields.io/badge/-Telegram-27a7e5?style=for-the-badge&logo=Telegram&logoColor=ffffff&logoWidth=20)](https://t.me/alkhimenok)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=for-the-badge&logo=Facebook&logoColor=ffffff&logoWidth=20)](https://www.facebook.com/profile.php?id=100072407994592) 
-[![Instagram](https://img.shields.io/badge/-Instagram-B4068E?style=for-the-badge&logo=Instagram&logoColor=ffffff&logoWidth=20)](https://www.instagram.com/frontend_proger/)
+[![Instagram](https://img.shields.io/badge/-Instagram-B4068E?style=for-the-badge&logo=Instagram&logoColor=ffffff&logoWidth=20)](https://www.instagram.com/alkhimenok.kirill.leonidovich/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1d9bf0?style=for-the-badge&logo=Twitter&logoColor=ffffff&logoWidth=20)](https://twitter.com/AlkhimenokKL)
 
 <br>
 
 ### Other:
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0a66c2?style=for-the-badge&logo=Linkedin&logoColor=ffffff&logoWidth=20)](https://www.linkedin.com/in/kirill-alkhimenok-a58524220/)
-[![Freelancehunt](https://img.shields.io/badge/-freelancehunt-d9aa38?style=for-the-badge&logo=icon&logoColor=ffffff&logoWidth=20)](https://freelancehunt.com/my)
 [![Codewars](https://img.shields.io/badge/-Codewars-b1361e?style=for-the-badge&logo=Codewars&logoColor=ffffff&logoWidth=20)](https://www.codewars.com/users/kirill-leonidovich)
+[![Freelancehunt](https://img.shields.io/badge/-freelancehunt-d9aa38?style=for-the-badge&logo=icon&logoColor=ffffff&logoWidth=20)](https://freelancehunt.com/my)
+[![FL](https://img.shields.io/badge/-FL-00cd5e?style=for-the-badge&logo=icon&logoColor=ffffff&logoWidth=20)](https://www.fl.ru/users/alkhimenokkiril/portfolio/#/)
 
 <br>
 
