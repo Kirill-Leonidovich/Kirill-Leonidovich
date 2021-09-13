@@ -11,7 +11,7 @@
 <br>
 
 ### Follow me:
-[![Telegram](https://img.shields.io/badge/-Telegram-27a7e5?style=for-the-badge&logo=Telegram&logoColor=ffffff&logoWidth=20)](https://t.me/joinchat/TnA5p8v4nAj99aZ3)
+[![Telegram](https://img.shields.io/badge/-Telegram-27a7e5?style=for-the-badge&logo=Telegram&logoColor=ffffff&logoWidth=20)](https://t.me/alkhimenok)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=for-the-badge&logo=Facebook&logoColor=ffffff&logoWidth=20)](https://www.facebook.com/profile.php?id=100072407994592) 
 [![Instagram](https://img.shields.io/badge/-Instagram-B4068E?style=for-the-badge&logo=Instagram&logoColor=ffffff&logoWidth=20)](https://www.instagram.com/frontend_proger/)
 ![Twitter](https://img.shields.io/badge/-Twitter-1d9bf0?style=for-the-badge&logo=Twitter&logoColor=ffffff&logoWidth=20)
