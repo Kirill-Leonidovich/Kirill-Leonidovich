@@ -22,8 +22,8 @@
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0a66c2?style=for-the-badge&logo=Linkedin&logoColor=ffffff&logoWidth=20)](https://www.linkedin.com/in/kirill-alkhimenok-a58524220/)
 [![Codewars](https://img.shields.io/badge/-Codewars-b1361e?style=for-the-badge&logo=Codewars&logoColor=ffffff&logoWidth=20)](https://www.codewars.com/users/kirill-leonidovich)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-e88331?style=for-the-badge&logo=StackOverflow&logoColor=ffffff&logoWidth=20)](https://ru.stackoverflow.com/users/466343/kirill-leonidovich)
-[![Freelancehunt](https://img.shields.io/badge/-freelancehunt-d9aa38?style=for-the-badge&logo=icon&logoColor=ffffff&logoWidth=20)](https://freelancehunt.com/my)
 [![FL](https://img.shields.io/badge/-FL-00cd5e?style=for-the-badge&logo=icon&logoColor=ffffff&logoWidth=20)](https://www.fl.ru/users/alkhimenokkiril/portfolio/#/)
+[![Freelancehunt](https://img.shields.io/badge/-freelancehunt-d9aa38?style=for-the-badge&logo=icon&logoColor=ffffff&logoWidth=20)](https://freelancehunt.com/my)
 
 <br>
 
