@@ -10,6 +10,11 @@
 ![Node](https://img.shields.io/badge/-node-3c7f3a?style=for-the-badge&logo=node.js&logoColor=ffffff&logoWidth=20)
 ![Exspress](https://img.shields.io/badge/-express-37424d?style=for-the-badge&logo=express&logoColor=ffffff&logoWidth=20)
 
+
+<!-- ![React](https://img.shields.io/badge/-React-4bbdf4?style=for-the-badge&logo=React&logoColor=ffffff&logoWidth=20)
+![Redux](https://img.shields.io/badge/-Redux-7649bd?style=for-the-badge&logo=Redux&logoColor=ffffff&logoWidth=20)
+![Gatsby](https://img.shields.io/badge/-Gatsby-653398?style=for-the-badge&logo=Gatsby&logoColor=ffffff&logoWidth=20) -->
+
 <br>
 
 ### Follow me:
