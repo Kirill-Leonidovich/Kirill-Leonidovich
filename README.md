@@ -3,17 +3,17 @@
 ### Skills:
 ![HTML](https://img.shields.io/badge/-HTML-db4925?style=for-the-badge&logo=HTML5&logoColor=ffffff&logoWidth=20)
 ![CSS](https://img.shields.io/badge/-CSS-28a1d4?style=for-the-badge&logo=CSS3&logoColor=ffffff&logoWidth=20)
-![SCSS](https://img.shields.io/badge/-SCSS-c36291?style=for-the-badge&logo=SASS&logoColor=ffffff&logoWidth=20)
+![SASS](https://img.shields.io/badge/-SASS-c36291?style=for-the-badge&logo=SASS&logoColor=ffffff&logoWidth=20)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f0a532?style=for-the-badge&logo=JavaScript&logoColor=ffffff&logoWidth=20) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-2e72bc?style=for-the-badge&logo=TypeScript&logoColor=ffffff&logoWidth=20)
 ![Git](https://img.shields.io/badge/-Git-f54d27?style=for-the-badge&logo=Git&logoColor=ffffff&logoWidth=20)
-![Node](https://img.shields.io/badge/-node-3c7f3a?style=for-the-badge&logo=node.js&logoColor=ffffff&logoWidth=20)
-![Exspress](https://img.shields.io/badge/-express-37424d?style=for-the-badge&logo=express&logoColor=ffffff&logoWidth=20)
+![Node](https://img.shields.io/badge/-Node-3c7f3a?style=for-the-badge&logo=Node.js&logoColor=ffffff&logoWidth=20)
+![Express](https://img.shields.io/badge/-Express-37424d?style=for-the-badge&logo=Express&logoColor=ffffff&logoWidth=20)
 
 
-<!-- ![React](https://img.shields.io/badge/-React-4bbdf4?style=for-the-badge&logo=React&logoColor=ffffff&logoWidth=20)
+![React](https://img.shields.io/badge/-React-4bbdf4?style=for-the-badge&logo=React&logoColor=ffffff&logoWidth=20)
 ![Redux](https://img.shields.io/badge/-Redux-7649bd?style=for-the-badge&logo=Redux&logoColor=ffffff&logoWidth=20)
-![Gatsby](https://img.shields.io/badge/-Gatsby-653398?style=for-the-badge&logo=Gatsby&logoColor=ffffff&logoWidth=20) -->
+![Gatsby](https://img.shields.io/badge/-Gatsby-653398?style=for-the-badge&logo=Gatsby&logoColor=ffffff&logoWidth=20)
 
 <br>
 
