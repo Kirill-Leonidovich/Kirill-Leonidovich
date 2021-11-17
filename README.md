@@ -13,7 +13,11 @@
 
 <!-- ![React](https://img.shields.io/badge/-React-4bbdf4?style=for-the-badge&logo=React&logoColor=ffffff&logoWidth=20)
 ![Redux](https://img.shields.io/badge/-Redux-7649bd?style=for-the-badge&logo=Redux&logoColor=ffffff&logoWidth=20)
-![Gatsby](https://img.shields.io/badge/-Gatsby-653398?style=for-the-badge&logo=Gatsby&logoColor=ffffff&logoWidth=20) -->
+![Gatsby](https://img.shields.io/badge/-Gatsby-653398?style=for-the-badge&logo=Gatsby&logoColor=ffffff&logoWidth=20)
+
+![React Native](https://img.shields.io/badge/-React_Native-4bbdf4?style=for-the-badge&logo=React&logoColor=ffffff&logoWidth=20)
+
+![Electron](https://img.shields.io/badge/-Electron-75a5b3?style=for-the-badge&logo=Electron&logoColor=ffffff&logoWidth=20) -->
 
 <br>
 
@@ -30,6 +34,7 @@
 [![FL](https://img.shields.io/badge/-FL-00cd5e?style=for-the-badge&logo=icon&logoColor=ffffff&logoWidth=20)](https://www.fl.ru/users/alkhimenokkiril/portfolio/#/)
 [![Freelancehunt](https://img.shields.io/badge/-freelancehunt-d9aa38?style=for-the-badge&logo=icon&logoColor=ffffff&logoWidth=20)](https://freelancehunt.com/my)
 [![Codewars](https://img.shields.io/badge/-Codewars-b1361e?style=for-the-badge&logo=Codewars&logoColor=ffffff&logoWidth=20)](https://www.codewars.com/users/kirill-leonidovich)
+[![Skillotron](https://img.shields.io/badge/-Skillotron-cabf27?style=for-the-badge&logo=icon&logoColor=ffffff&logoWidth=20)](https://skillotron.com/profile/196080)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-e88331?style=for-the-badge&logo=StackOverflow&logoColor=ffffff&logoWidth=20)](https://ru.stackoverflow.com/users/466343/kirill-leonidovich)
 
 <br>
