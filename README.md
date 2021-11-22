@@ -5,7 +5,7 @@
 ![html](https://img.shields.io/badge/-html-db4a22?style=for-the-badge&logo=html5&logoColor=ffffff&logoWidth=20)
 ![css](https://img.shields.io/badge/-css-4f8eac?style=for-the-badge&logo=css3&logoColor=ffffff&logoWidth=20)
 ![sass](https://img.shields.io/badge/-sass-c96496?style=for-the-badge&logo=sass&logoColor=ffffff&logoWidth=20)
-![javascript](https://img.shields.io/badge/-javascript-afb026?style=for-the-badge&logo=javascript&logoColor=ffffff&logoWidth=20)
+![javascript](https://img.shields.io/badge/-javascript-c8bf0f?style=for-the-badge&logo=javascript&logoColor=ffffff&logoWidth=20)
 ![typescript](https://img.shields.io/badge/-typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=ffffff&logoWidth=20)
 ![node](https://img.shields.io/badge/-node-538e3e?style=for-the-badge&logo=node.js&logoColor=ffffff&logoWidth=20)
 ![express](https://img.shields.io/badge/-Express-37424d?style=for-the-badge&logo=express&logoColor=ffffff&logoWidth=20)
