@@ -9,7 +9,7 @@
 ![typescript](https://img.shields.io/badge/-typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=ffffff&logoWidth=20)
 ![node](https://img.shields.io/badge/-node-538e3e?style=for-the-badge&logo=node.js&logoColor=ffffff&logoWidth=20)
 ![express](https://img.shields.io/badge/-Express-37424d?style=for-the-badge&logo=express&logoColor=ffffff&logoWidth=20)
-
+![mongodb](https://img.shields.io/badge/-mongodb-5da14b?style=for-the-badge&logo=mongodb&logoColor=ffffff&logoWidth=20)
 <!-- ![react](https://img.shields.io/badge/-react-5fc6ef?style=for-the-badge&logo=react&logoColor=ffffff&logoWidth=20)
 ![redux](https://img.shields.io/badge/-redux-7649bd?style=for-the-badge&logo=redux&logoColor=ffffff&logoWidth=20)
 ![gatsby](https://img.shields.io/badge/-gatsby-653398?style=for-the-badge&logo=gatsby&logoColor=ffffff&logoWidth=20)
@@ -29,13 +29,12 @@
 ![stylelint](https://img.shields.io/badge/-stylelint-3f3f3f?style=for-the-badge&logo=stylelint&logoColor=ffffff&logoWidth=20)
 ![git](https://img.shields.io/badge/-git-f54d27?style=for-the-badge&logo=git&logoColor=ffffff&logoWidth=20)
 ![npm](https://img.shields.io/badge/-npm-a83a15?style=for-the-badge&logo=npm&logoColor=ffffff&logoWidth=20)
-![eslint](https://img.shields.io/badge/-eslint-3d3577?style=for-the-badge&logo=eslint&logoColor=ffffff&logoWidth=20)
+![eslint](https://img.shields.io/badge/-eslint-514abe?style=for-the-badge&logo=eslint&logoColor=ffffff&logoWidth=20)
 ![webpack](https://img.shields.io/badge/-webpack-66add2?style=for-the-badge&logo=webpack&logoColor=ffffff&logoWidth=20)
 ![babel](https://img.shields.io/badge/-babel-c8b20f?style=for-the-badge&logo=babel&logoColor=ffffff&logoWidth=20)
 
 <!-- ![gulp](https://img.shields.io/badge/-gulp-d34a46?style=for-the-badge&logo=gulp&logoColor=ffffff&logoWidth=20)
-![docker](https://img.shields.io/badge/-docker-2885d8?style=for-the-badge&logo=docker&logoColor=ffffff&logoWidth=20)
-![mongodb](https://img.shields.io/badge/-mongodb-5da14b?style=for-the-badge&logo=MongoDB&logoColor=ffffff&logoWidth=20) -->
+![docker](https://img.shields.io/badge/-docker-2885d8?style=for-the-badge&logo=docker&logoColor=ffffff&logoWidth=20) -->
 
 <br>
 
