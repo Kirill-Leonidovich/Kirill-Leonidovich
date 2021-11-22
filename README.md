@@ -16,6 +16,10 @@
 ![Electron](https://img.shields.io/badge/-Electron-75a5b3?style=for-the-badge&logo=Electron&logoColor=ffffff&logoWidth=20)
 ![Vue](https://img.shields.io/badge/-Vue-69ba83?style=for-the-badge&logo=Vue.js&logoColor=ffffff&logoWidth=20)
 ![Angular](https://img.shields.io/badge/-Angular-c74431?style=for-the-badge&logo=Angular&logoColor=ffffff&logoWidth=20)
+![Next](https://img.shields.io/badge/-Next-656565?style=for-the-badge&logo=Next.js&logoColor=ffffff&logoWidth=20)
+![Nuxt](https://img.shields.io/badge/-Nuxt-468471?style=for-the-badge&logo=Nuxt.js&logoColor=ffffff&logoWidth=20)
+![Nest](https://img.shields.io/badge/-Nest-e2514f?style=for-the-badge&logo=Nestjs&logoColor=ffffff&logoWidth=20)
+
 
 <br>
 
@@ -27,9 +31,11 @@
 ![NPM](https://img.shields.io/badge/-NPM-cd4402?style=for-the-badge&logo=NPM&logoColor=ffffff&logoWidth=20)
 ![Eslint](https://img.shields.io/badge/-Eslint-514abe?style=for-the-badge&logo=Eslint&logoColor=ffffff&logoWidth=20)
 ![Webpack](https://img.shields.io/badge/-Webpack-5399c8?style=for-the-badge&logo=Webpack&logoColor=ffffff&logoWidth=20)
+![Gulp](https://img.shields.io/badge/-Gulp-d34a46?style=for-the-badge&logo=Gulp&logoColor=ffffff&logoWidth=20)
 ![Babel](https://img.shields.io/badge/-Babel-c8b20f?style=for-the-badge&logo=Babel&logoColor=ffffff&logoWidth=20)
 ![Docker](https://img.shields.io/badge/-Docker-1c6bb3?style=for-the-badge&logo=Docker&logoColor=ffffff&logoWidth=20)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-508d4a?style=for-the-badge&logo=MongoDB&logoColor=ffffff&logoWidth=20)
+
 
 <br>
 
