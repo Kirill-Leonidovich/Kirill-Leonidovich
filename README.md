@@ -53,7 +53,7 @@
 [![fl](https://img.shields.io/badge/-fl-00cd5e?style=for-the-badge&logo=icon&logoColor=ffffff&logoWidth=20)](https://www.fl.ru/users/alkhimenokkiril/portfolio/#/)
 [![freelancehunt](https://img.shields.io/badge/-freelancehunt-d9aa38?style=for-the-badge&logo=icon&logoColor=ffffff&logoWidth=20)](https://freelancehunt.com/my)
 [![codewars](https://img.shields.io/badge/-codewars-b1361e?style=for-the-badge&logo=codewars&logoColor=ffffff&logoWidth=20)](https://www.codewars.com/users/kirill-leonidovich)
-[![skillotron](https://img.shields.io/badge/-skillotron-cabf27?style=for-the-badge&logo=icon&logoColor=ffffff&logoWidth=20)](https://skillotron.com/profile/196080)
+[![skillotron](https://img.shields.io/badge/-skillotron-cabf27?style=for-the-badge&logo=icon&logoColor=ffffff&logoWidth=20)](https://skillotron.com/profile/197534)
 [![stackoverflow](https://img.shields.io/badge/-stackoverflow-e87e27?style=for-the-badge&logo=stackoverflow&logoColor=ffffff&logoWidth=20)](https://ru.stackoverflow.com/users/466343/kirill-leonidovich)
 
 <br>
