@@ -60,11 +60,11 @@
 
 ### Stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kirill-Leonidovich&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirill-Leonidovich&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alkhimenok&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alkhimenok&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
 ### You can also see my projects:
 
-[![portfolio](https://img.shields.io/badge/-portfolio-0a66c2?style=for-the-badge)](https://kirill-leonidovich.github.io)
+[![portfolio](https://img.shields.io/badge/-portfolio-0a66c2?style=for-the-badge)](https://alkhimenok.github.io)
