@@ -1,4 +1,4 @@
-# Frontend developer
+# JavaScript developer
 
 ### Skills:
 
@@ -41,20 +41,18 @@
 ### Follow me:
 
 [![telegram](https://img.shields.io/badge/-telegram-48a2d7?style=for-the-badge&logo=telegram&logoColor=ffffff&logoWidth=20)](https://t.me/alkhimenok)
-[![facebook](https://img.shields.io/badge/-facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=ffffff&logoWidth=20)](https://www.facebook.com/profile.php?id=100072407994592)
-[![instagram](https://img.shields.io/badge/-instagram-d1537e?style=for-the-badge&logo=instagram&logoColor=ffffff&logoWidth=20)](https://www.instagram.com/alkhimenok.kirill.leonidovich/)
-[![twitter](https://img.shields.io/badge/-twitter-3ca2f3?style=for-the-badge&logo=twitter&logoColor=ffffff&logoWidth=20)](https://twitter.com/AlkhimenokKL)
+[![facebook](https://img.shields.io/badge/-facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=ffffff&logoWidth=20)](https://www.facebook.com/alkhimenok)
+[![instagram](https://img.shields.io/badge/-instagram-d1537e?style=for-the-badge&logo=instagram&logoColor=ffffff&logoWidth=20)](https://www.instagram.com/alkhimenokk)
+[![twitter](https://img.shields.io/badge/-twitter-3ca2f3?style=for-the-badge&logo=twitter&logoColor=ffffff&logoWidth=20)](https://twitter.com/alkhimenokk)
 
 <br>
 
 ### Other:
 
-[![linkedin](https://img.shields.io/badge/-linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=ffffff&logoWidth=20)](https://www.linkedin.com/in/kirill-alkhimenok-a58524220/)
-[![fl](https://img.shields.io/badge/-fl-00cd5e?style=for-the-badge&logo=icon&logoColor=ffffff&logoWidth=20)](https://www.fl.ru/users/alkhimenokkiril/portfolio/#/)
-[![freelancehunt](https://img.shields.io/badge/-freelancehunt-d9aa38?style=for-the-badge&logo=icon&logoColor=ffffff&logoWidth=20)](https://freelancehunt.com/my)
+[![linkedin](https://img.shields.io/badge/-linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=ffffff&logoWidth=20)](https://www.linkedin.com/in/kirill-alkhimenok-a58524220)
 [![codewars](https://img.shields.io/badge/-codewars-b1361e?style=for-the-badge&logo=codewars&logoColor=ffffff&logoWidth=20)](https://www.codewars.com/users/alkhimenok)
-[![skillotron](https://img.shields.io/badge/-skillotron-cabf27?style=for-the-badge&logo=icon&logoColor=ffffff&logoWidth=20)](https://skillotron.com/profile/197534)
 [![stackoverflow](https://img.shields.io/badge/-stackoverflow-e87e27?style=for-the-badge&logo=stackoverflow&logoColor=ffffff&logoWidth=20)](https://ru.stackoverflow.com/users/466343/alkhimenok)
+[![skillotron](https://img.shields.io/badge/-skillotron-cabf27?style=for-the-badge&logo=icon&logoColor=ffffff&logoWidth=20)](https://skillotron.com/profile/197534)
 
 <br>
 
