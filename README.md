@@ -51,6 +51,7 @@
 
 ### Other:
 
+[![rabota.by](https://img.shields.io/badge/-rabota.by-e54d02?style=for-the-badge&logo=icon&logoColor=ffffff&logoWidth=20)]([![linkedin](https://img.shields.io/badge/-linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=ffffff&logoWidth=20)](https://www.linkedin.com/in/kirill-alkhimenok-a58524220))
 [![linkedin](https://img.shields.io/badge/-linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=ffffff&logoWidth=20)](https://www.linkedin.com/in/kirill-alkhimenok-a58524220)
 [![codewars](https://img.shields.io/badge/-codewars-b1361e?style=for-the-badge&logo=codewars&logoColor=ffffff&logoWidth=20)](https://www.codewars.com/users/alkhimenok)
 [![stackoverflow](https://img.shields.io/badge/-stackoverflow-e87e27?style=for-the-badge&logo=stackoverflow&logoColor=ffffff&logoWidth=20)](https://ru.stackoverflow.com/users/466343/alkhimenok)
