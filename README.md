@@ -10,6 +10,7 @@
 ![node](https://img.shields.io/badge/-node-538e3e?style=for-the-badge&logo=node.js&logoColor=ffffff&logoWidth=20)
 ![express](https://img.shields.io/badge/-Express-37424d?style=for-the-badge&logo=express&logoColor=ffffff&logoWidth=20)
 ![mongodb](https://img.shields.io/badge/-mongodb-5da14b?style=for-the-badge&logo=mongodb&logoColor=ffffff&logoWidth=20)
+
 <!-- ![react](https://img.shields.io/badge/-react-5fc6ef?style=for-the-badge&logo=react&logoColor=ffffff&logoWidth=20)
 ![redux](https://img.shields.io/badge/-redux-7649bd?style=for-the-badge&logo=redux&logoColor=ffffff&logoWidth=20)
 ![gatsby](https://img.shields.io/badge/-gatsby-653398?style=for-the-badge&logo=gatsby&logoColor=ffffff&logoWidth=20)
@@ -25,6 +26,7 @@
 
 ### Devtools:
 
+![bootstrap](https://img.shields.io/badge/-bootstrap-7952b4?style=for-the-badge&logo=bootstrap&logoColor=ffffff&logoWidth=20)
 ![prettier](https://img.shields.io/badge/-prettier-1a2b33?style=for-the-badge&logo=prettier&logoColor=ffffff&logoWidth=20)
 ![stylelint](https://img.shields.io/badge/-stylelint-3f3f3f?style=for-the-badge&logo=stylelint&logoColor=ffffff&logoWidth=20)
 ![git](https://img.shields.io/badge/-git-f54d27?style=for-the-badge&logo=git&logoColor=ffffff&logoWidth=20)
