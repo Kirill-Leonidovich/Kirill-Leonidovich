@@ -6,6 +6,8 @@
 ![css](https://img.shields.io/badge/-css-4f8eac?style=for-the-badge&logo=css3&logoColor=ffffff&logoWidth=20)
 ![sass](https://img.shields.io/badge/-sass-c96496?style=for-the-badge&logo=sass&logoColor=ffffff&logoWidth=20)
 ![less](https://img.shields.io/badge/-less-264b7c?style=for-the-badge&logo=less&logoColor=ffffff&logoWidth=20)
+![bootstrap](https://img.shields.io/badge/-bootstrap-7952b4?style=for-the-badge&logo=bootstrap&logoColor=ffffff&logoWidth=20)
+![materialize](https://img.shields.io/badge/-materialize-e66c73?style=for-the-badge&logo=icon&logoColor=ffffff&logoWidth=20)
 ![javascript](https://img.shields.io/badge/-javascript-c8bf0f?style=for-the-badge&logo=javascript&logoColor=ffffff&logoWidth=20)
 ![typescript](https://img.shields.io/badge/-typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=ffffff&logoWidth=20)
 ![node](https://img.shields.io/badge/-node-538e3e?style=for-the-badge&logo=node.js&logoColor=ffffff&logoWidth=20)
@@ -27,7 +29,6 @@
 
 ### Devtools:
 
-![bootstrap](https://img.shields.io/badge/-bootstrap-7952b4?style=for-the-badge&logo=bootstrap&logoColor=ffffff&logoWidth=20)
 ![prettier](https://img.shields.io/badge/-prettier-1a2b33?style=for-the-badge&logo=prettier&logoColor=ffffff&logoWidth=20)
 ![stylelint](https://img.shields.io/badge/-stylelint-3f3f3f?style=for-the-badge&logo=stylelint&logoColor=ffffff&logoWidth=20)
 ![git](https://img.shields.io/badge/-git-f54d27?style=for-the-badge&logo=git&logoColor=ffffff&logoWidth=20)
