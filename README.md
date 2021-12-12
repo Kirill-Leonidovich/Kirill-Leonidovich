@@ -35,10 +35,10 @@
 ![npm](https://img.shields.io/badge/-npm-a83a15?style=for-the-badge&logo=npm&logoColor=ffffff&logoWidth=20)
 ![eslint](https://img.shields.io/badge/-eslint-514abe?style=for-the-badge&logo=eslint&logoColor=ffffff&logoWidth=20)
 ![webpack](https://img.shields.io/badge/-webpack-66add2?style=for-the-badge&logo=webpack&logoColor=ffffff&logoWidth=20)
+![gulp](https://img.shields.io/badge/-gulp-d34a46?style=for-the-badge&logo=gulp&logoColor=ffffff&logoWidth=20)
 ![babel](https://img.shields.io/badge/-babel-c8b20f?style=for-the-badge&logo=babel&logoColor=ffffff&logoWidth=20)
+![docker](https://img.shields.io/badge/-docker-2885d8?style=for-the-badge&logo=docker&logoColor=ffffff&logoWidth=20)
 
-<!-- ![gulp](https://img.shields.io/badge/-gulp-d34a46?style=for-the-badge&logo=gulp&logoColor=ffffff&logoWidth=20)
-![docker](https://img.shields.io/badge/-docker-2885d8?style=for-the-badge&logo=docker&logoColor=ffffff&logoWidth=20) -->
 
 <br>
 
