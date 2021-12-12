@@ -53,7 +53,7 @@
 
 ### Other:
 
-[![rabota.by](https://img.shields.io/badge/-rabota.by-e44d02?style=for-the-badge&logo=icon&logoColor=ffffff&logoWidth=20)](https://rabota.by/applicant/resumes/view?resume=5e778dc1ff073d928f0039ed1f7a7137484e5a)
+[![rabota](https://img.shields.io/badge/-rabota-e44d02?style=for-the-badge&logo=icon&logoColor=ffffff&logoWidth=20)](https://rabota.by/applicant/resumes/view?resume=5e778dc1ff073d928f0039ed1f7a7137484e5a)
 [![linkedin](https://img.shields.io/badge/-linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=ffffff&logoWidth=20)](https://www.linkedin.com/in/kirill-alkhimenok-a58524220)
 [![codewars](https://img.shields.io/badge/-codewars-b1361e?style=for-the-badge&logo=codewars&logoColor=ffffff&logoWidth=20)](https://www.codewars.com/users/alkhimenok)
 [![stackoverflow](https://img.shields.io/badge/-stackoverflow-e87e27?style=for-the-badge&logo=stackoverflow&logoColor=ffffff&logoWidth=20)](https://ru.stackoverflow.com/users/466343/alkhimenok)
