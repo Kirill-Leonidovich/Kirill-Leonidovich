@@ -45,6 +45,7 @@
 ### Follow me:
 
 [![telegram](https://img.shields.io/badge/-telegram-48a2d7?style=for-the-badge&logo=telegram&logoColor=ffffff&logoWidth=20)](https://t.me/alkhimenok)
+[![skype](https://img.shields.io/badge/-skype-3ca2f3?style=for-the-badge&logo=skype&logoColor=ffffff&logoWidth=20)](live:.cid.409b70417fe7d5bf)
 [![facebook](https://img.shields.io/badge/-facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=ffffff&logoWidth=20)](https://www.facebook.com/alkhimenok)
 [![instagram](https://img.shields.io/badge/-instagram-d1537e?style=for-the-badge&logo=instagram&logoColor=ffffff&logoWidth=20)](https://www.instagram.com/alkhimenokk/)
 [![twitter](https://img.shields.io/badge/-twitter-3ca2f3?style=for-the-badge&logo=twitter&logoColor=ffffff&logoWidth=20)](https://twitter.com/alkhimenokk)
