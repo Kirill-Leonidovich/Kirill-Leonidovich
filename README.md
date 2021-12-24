@@ -2,17 +2,26 @@
 
 ### Skills:
 
+![markdown](https://img.shields.io/badge/-markdown-141414?style=for-the-badge&logo=markdown&logoColor=ffffff&logoWidth=20)
 ![html](https://img.shields.io/badge/-html-db4a22?style=for-the-badge&logo=html5&logoColor=ffffff&logoWidth=20)
 ![css](https://img.shields.io/badge/-css-4f8eac?style=for-the-badge&logo=css3&logoColor=ffffff&logoWidth=20)
-![sass](https://img.shields.io/badge/-sass-c96496?style=for-the-badge&logo=sass&logoColor=ffffff&logoWidth=20)
+![stylus](https://img.shields.io/badge/-stylus-a5c01b?style=for-the-badge&logo=stylus&logoColor=ffffff&logoWidth=20)
 ![less](https://img.shields.io/badge/-less-264b7c?style=for-the-badge&logo=less&logoColor=ffffff&logoWidth=20)
+![sass](https://img.shields.io/badge/-sass-c96496?style=for-the-badge&logo=sass&logoColor=ffffff&logoWidth=20)
+![postcss](https://img.shields.io/badge/-postcss-de4b0b?style=for-the-badge&logo=postcss&logoColor=ffffff&logoWidth=20)
 ![bootstrap](https://img.shields.io/badge/-bootstrap-7952b4?style=for-the-badge&logo=bootstrap&logoColor=ffffff&logoWidth=20)
 ![materialize](https://img.shields.io/badge/-materialize-e66c73?style=for-the-badge&logo=icon&logoColor=ffffff&logoWidth=20)
 ![javascript](https://img.shields.io/badge/-javascript-c8bf0f?style=for-the-badge&logo=javascript&logoColor=ffffff&logoWidth=20)
 ![typescript](https://img.shields.io/badge/-typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=ffffff&logoWidth=20)
+![ejs](https://img.shields.io/badge/-ejs-ab3e51?style=for-the-badge&logo=icon&logoColor=ffffff&logoWidth=20)
+![pug](https://img.shields.io/badge/-pug-533029?style=for-the-badge&logo=pug&logoColor=ffffff&logoWidth=20)
 ![node](https://img.shields.io/badge/-node-538e3e?style=for-the-badge&logo=node.js&logoColor=ffffff&logoWidth=20)
 ![express](https://img.shields.io/badge/-Express-37424d?style=for-the-badge&logo=express&logoColor=ffffff&logoWidth=20)
 ![mongodb](https://img.shields.io/badge/-mongodb-5da14b?style=for-the-badge&logo=mongodb&logoColor=ffffff&logoWidth=20)
+![webgl](https://img.shields.io/badge/-webgl-973008?style=for-the-badge&logo=webgl&logoColor=ffffff&logoWidth=20)
+![three](https://img.shields.io/badge/-three-2c283d?style=for-the-badge&logo=three.js&logoColor=ffffff&logoWidth=20)
+![jest](https://img.shields.io/badge/-jest-913f57?style=for-the-badge&logo=jest&logoColor=ffffff&logoWidth=20)
+![jasmine](https://img.shields.io/badge/-jasmine-833e7c?style=for-the-badge&logo=jasmine&logoColor=ffffff&logoWidth=20)
 ![seo](https://img.shields.io/badge/-seo-194055?style=for-the-badge&logo=icon&logoColor=ffffff&logoWidth=20)
 
 <!-- ![react](https://img.shields.io/badge/-react-5fc6ef?style=for-the-badge&logo=react&logoColor=ffffff&logoWidth=20)
@@ -32,11 +41,12 @@
 
 ![prettier](https://img.shields.io/badge/-prettier-1a2b33?style=for-the-badge&logo=prettier&logoColor=ffffff&logoWidth=20)
 ![stylelint](https://img.shields.io/badge/-stylelint-3f3f3f?style=for-the-badge&logo=stylelint&logoColor=ffffff&logoWidth=20)
-![git](https://img.shields.io/badge/-git-f54d27?style=for-the-badge&logo=git&logoColor=ffffff&logoWidth=20)
 ![npm](https://img.shields.io/badge/-npm-a83a15?style=for-the-badge&logo=npm&logoColor=ffffff&logoWidth=20)
+![git](https://img.shields.io/badge/-git-f54d27?style=for-the-badge&logo=git&logoColor=ffffff&logoWidth=20)
+![github](https://img.shields.io/badge/-github-25292f?style=for-the-badge&logo=github&logoColor=ffffff&logoWidth=20)
 ![eslint](https://img.shields.io/badge/-eslint-514abe?style=for-the-badge&logo=eslint&logoColor=ffffff&logoWidth=20)
-![webpack](https://img.shields.io/badge/-webpack-66add2?style=for-the-badge&logo=webpack&logoColor=ffffff&logoWidth=20)
 ![gulp](https://img.shields.io/badge/-gulp-d34a46?style=for-the-badge&logo=gulp&logoColor=ffffff&logoWidth=20)
+![webpack](https://img.shields.io/badge/-webpack-66add2?style=for-the-badge&logo=webpack&logoColor=ffffff&logoWidth=20)
 ![babel](https://img.shields.io/badge/-babel-c8b20f?style=for-the-badge&logo=babel&logoColor=ffffff&logoWidth=20)
 ![docker](https://img.shields.io/badge/-docker-2885d8?style=for-the-badge&logo=docker&logoColor=ffffff&logoWidth=20)
 
