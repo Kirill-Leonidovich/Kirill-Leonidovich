@@ -1,5 +1,3 @@
-<center>
-
 # JavaScript developer
 
 ### Skills:
@@ -76,15 +74,19 @@
 
 ### Stats:
 
-![Codewars](https://www.codewars.com/users/alkhimenok/badges/large)
+<center>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alkhimenok)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alkhimenok)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alkhimenok&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alkhimenok&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=alkhimenok&&bg_color=fefefe&color=333333&line=4677c0&point=333333&area=true&area_color=4677c0)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Codewars](https://www.codewars.com/users/alkhimenok/badges/large?theme=light)](https://www.codewars.com/users/alkhimenok)
+
+</center>
 
 <br>
 
 ### You can also see my projects:
 
 [![portfolio](https://img.shields.io/badge/-portfolio-0a66c2?style=for-the-badge)](https://alkhimenok.github.io)
-
-</center>
