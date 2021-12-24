@@ -1,3 +1,5 @@
+<center>
+
 # JavaScript developer
 
 ### Skills:
@@ -74,12 +76,15 @@
 
 ### Stats:
 
+![Codewars](https://www.codewars.com/users/alkhimenok/badges/large)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alkhimenok&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alkhimenok&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Codewars](https://www.codewars.com/users/alkhimenok/badges/large)
 
 <br>
 
 ### You can also see my projects:
 
 [![portfolio](https://img.shields.io/badge/-portfolio-0a66c2?style=for-the-badge)](https://alkhimenok.github.io)
+
+</center>
