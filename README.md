@@ -79,8 +79,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alkhimenok)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alkhimenok)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alkhimenok&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=alkhimenok&&bg_color=fefefe&color=333333&line=4677c0&point=333333&area=true&area_color=4677c0)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 [![Codewars](https://www.codewars.com/users/alkhimenok/badges/large?theme=light)](https://www.codewars.com/users/alkhimenok)
 
 </center>
