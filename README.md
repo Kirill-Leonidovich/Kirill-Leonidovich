@@ -74,19 +74,34 @@
 
 ### Stats:
 
-<center>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width=37.5%  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkhimenok" alt="top-langs stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width=61.9% align="center" src="https://github-readme-stats.vercel.app/api?username=alkhimenok&show_icons=true&line_height=40" alt="stats" />
+</a>
+<hr>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=alkhimenok" alt="wakatime-stats"/>
+</a>
+<hr>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img width=100% align="center" src="https://activity-graph.herokuapp.com/graph?username=alkhimenok&&bg_color=fefefe&color=333333&line=4677c0&point=333333&area=true&area_color=4677c0" alt="activity-graph"/>
+</a>
+<hr>
+<p align="center">
+  <img src="https://www.codewars.com/users/alkhimenok/badges/large?theme=light" alt="codewars"/>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alkhimenok)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alkhimenok)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alkhimenok)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alkhimenok)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alkhimenok&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alkhimenok&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=alkhimenok&&bg_color=fefefe&color=333333&line=4677c0&point=333333&area=true&area_color=4677c0)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=alkhimenok&&bg_color=fefefe&color=333333&line=4677c0&point=333333&area=true&area_color=4677c0)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
-[![Codewars](https://www.codewars.com/users/alkhimenok/badges/large?theme=light)](https://www.codewars.com/users/alkhimenok)
-
-</center>
+<!-- [![Codewars](https://www.codewars.com/users/alkhimenok/badges/large?theme=light)](https://www.codewars.com/users/alkhimenok) -->
 
 <br>
 
