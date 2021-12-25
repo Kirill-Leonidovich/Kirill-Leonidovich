@@ -111,5 +111,3 @@
 ### You can also see my projects:
 
 [![portfolio](https://img.shields.io/badge/-portfolio-0a66c2?style=for-the-badge)](https://alkhimenok.github.io)
-
-<p></p><link href="style.css" rel="stylesheet"></link><p></p>
