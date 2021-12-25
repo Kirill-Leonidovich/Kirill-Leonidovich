@@ -74,13 +74,13 @@
 
 ### Stats:
 
-<style type="text/css" rel="stylesheet">
-  @media screen and (max-width: 576px) {
-    .card {width: 100%}
-  }
-</style>
 
 <p align="center">
+  <style type="text/css" rel="stylesheet">
+    @media screen and (max-width: 576px) {
+      .card {width: 100%}
+    }
+  </style>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img class="card" width=37.5% src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkhimenok" alt="top-langs stats" />
   </a>
