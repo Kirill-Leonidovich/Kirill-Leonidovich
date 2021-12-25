@@ -74,13 +74,7 @@
 
 ### Stats:
 
-
-<p align="center">
-  <style type="text/css" rel="stylesheet">
-    @media screen and (max-width: 576px) {
-      .card {width: 100%}
-    }
-  </style>
+<p align="center" >
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img class="card" width=37.5% src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkhimenok" alt="top-langs stats" />
   </a>
@@ -117,3 +111,5 @@
 ### You can also see my projects:
 
 [![portfolio](https://img.shields.io/badge/-portfolio-0a66c2?style=for-the-badge)](https://alkhimenok.github.io)
+
+<p></p><link href="style.css" rel="stylesheet"></link><p></p>
