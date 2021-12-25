@@ -74,7 +74,7 @@
 
 ### Stats:
 
-<style>
+<style type="text/css" rel="stylesheet">
   @media screen and (max-width: 576px) {
     .card {width: 100%}
   }
