@@ -74,25 +74,28 @@
 
 ### Stats:
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=37.5%  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkhimenok" alt="top-langs stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=61.9% align="center" src="https://github-readme-stats.vercel.app/api?username=alkhimenok&show_icons=true&line_height=40" alt="stats" />
-</a>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img class="card" width=37.5% src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkhimenok" alt="top-langs stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img class="card" width=61.9% src="https://github-readme-stats.vercel.app/api?username=alkhimenok&show_icons=true&line_height=40" alt="stats" />
+  </a>
+</p>
 <hr>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=alkhimenok" alt="wakatime-stats"/>
+  <img class="card" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=alkhimenok" alt="wakatime-stats"/>
 </a>
 <hr>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img width=100% align="center" src="https://activity-graph.herokuapp.com/graph?username=alkhimenok&&bg_color=fefefe&color=333333&line=4677c0&point=333333&area=true&area_color=4677c0" alt="activity-graph"/>
+  <img class="card" width=100% src="https://activity-graph.herokuapp.com/graph?username=alkhimenok&&bg_color=fefefe&color=333333&line=4677c0&point=333333&area=true&area_color=4677c0" alt="activity-graph"/>
 </a>
 <hr>
 <p align="center">
-  <img src="https://www.codewars.com/users/alkhimenok/badges/large?theme=light" alt="codewars"/>
+  <a href="https://www.codewars.com/users/alkhimenok">
+    <img class="card" src="https://www.codewars.com/users/alkhimenok/badges/large?theme=light" alt="codewars"/>
+  </a>
 </p>
-
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alkhimenok)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alkhimenok)](https://github.com/anuraghazra/github-readme-stats) -->
@@ -108,3 +111,5 @@
 ### You can also see my projects:
 
 [![portfolio](https://img.shields.io/badge/-portfolio-0a66c2?style=for-the-badge)](https://alkhimenok.github.io)
+
+<style>@media screen and (max-width: 576px) {.card {width: 100%}}</style>
