@@ -75,21 +75,21 @@
 
 ### Stats:
 
-<p style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
-  <a style="width: 37%;" href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkhimenok" alt="top-langs stats" />
   </a>
-  <a style="width: 61%;" href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=alkhimenok&show_icons=true&line_height=40" alt="stats" />
   </a>
 </p>
 <hr>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=alkhimenok" alt="wakatime-stats"/>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=alkhimenok" alt="wakatime-stats"/>
 </a>
 <hr>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img style="display: block; width: 100%; border-radius: calc(0px + 10 * (100vw / 1280)); overflow: hidden;" src="https://activity-graph.herokuapp.com/graph?username=alkhimenok&&bg_color=fefefe&color=333333&line=4677c0&point=333333&area=true&area_color=4677c0" alt="activity-graph"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=alkhimenok&&bg_color=fefefe&color=333333&line=4677c0&point=333333&area=true&area_color=4677c0" alt="activity-graph"/>
 </a>
 <hr>
 <p align="center">
