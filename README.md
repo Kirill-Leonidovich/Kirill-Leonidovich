@@ -16,7 +16,7 @@
 [![typescript](https://img.shields.io/badge/-typescript-/?style=for-the-badge&color=3178C6&labelColor=ffffff&logoColor=3178C6&logoWidth=30&logo=typescript)](https://www.typescriptlang.org)
 [![ejs](https://img.shields.io/badge/-ejs-/?style=for-the-badge&color=ab3e51&labelColor=ffffff&logoColor=ab3e51&logoWidth=30&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEgSURBVHgB3VHLTcNAFJy3DieQCBXgDnABYOwObEQiccKpIO4ASkgHCSck++ClApyEe1owHRgp4gD2e+wixeJiJA5c8k6rGc1Hs8B+XBFEwz6O+ojcv7oTYY9Aw60j8aTUde7Hm62S0L5Vb4pIMF7rmEmWRy1dZhdRYsAnK7L0oEsIooBaNW1atsLQYlkQeWByjUlJRGnzIZOuan5uBKSmTPxKDD160aUlHoPIdRipqbQRKJfAFQtICO67wuy7qqnjKVHHMkC9c7wpdTVe6dRRWAokgeDNBJyRoDpk3Hfj2GRRSIzl6WhdhDs88+OFgjyL4ESA+sCBbloU3Ti2oklI7II/hnKVkFyv9ENjBGbh20+mGREW+MvNzeLzX/72f+8LprZ9yVVem2IAAAAASUVORK5CYII=)](https://ejs.co)
 [![pug](https://img.shields.io/badge/-pug-/?style=for-the-badge&color=52302a&labelColor=ffffff&logoColor=52302a&logoWidth=30&logo=pug)](https://pugjs.org)
-[![canvas](https://img.shields.io/badge/-canvas-/?style=for-the-badge&color=62a84c&labelColor=ffffff&logoColor=62a84c&logoWidth=30&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAIESURBVHgBhZK9a1NRGMZ/J/feJM0XwRiTlgarNda2ImKri1gQl+Li4KKDqJsOIjgJbv4TcdJVpY4u4iIqCoJgxSLaxtjYmpikTWxCmtwvz01qvhx84Vwu99zn/J7nfY+wZfGfsmwLgVxC7Xxz9f5gY9D8chtLL/UJF97Webei00voEwoUhC+B8fkmDd3k2ccGtmVQbqgYkrpaMuTpbXmHbcsN40cKJXIWoymJ+Qd8WD5PdVvD1A0+rWlMjzini3+JrtAxGks3EP5JhFHizESGoNfiRFJjIq4Q8itdd5Jkt/M5S1I3XmKUXqD4kmixeXIVFw1riLGoG7ETqGW1mXuMnX+CEjiE5RltbxlbqKFJ9MJzitk8r8pXuTKn4vN2iarwT+GKCZlRNlzYFOsVcvYeEpafN79WOTB8kuszXoSi9HVaOHM0bZOLT28R9gSZiR9GN0yODx9hNBBl8VGKo1/LRO7cRQuGpFHRFTodrTbqZCpZ7i0+ZC4xS+53kfn9pzi4a6yV36zVUIPBAWHrBZqmji7prwvvWclnOJ2uEd5s4o5EEJVNwpevyWn0jEPsPNyqhk+TeZo2puzw7vRPIhcuIQoFdJdKPb3cuT0qA/V9a437SwukIudwxetogRDKvnGGpqZxj+xtOXMgYvCSr1fzfNvIMru+DdEYnvGkpNitQf+16dQf9R/aoaFBoioAAAAASUVORK5CYII=)](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
+<!-- [![canvas](https://img.shields.io/badge/-canvas-/?style=for-the-badge&color=62a84c&labelColor=ffffff&logoColor=62a84c&logoWidth=30&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAIESURBVHgBhZK9a1NRGMZ/J/feJM0XwRiTlgarNda2ImKri1gQl+Li4KKDqJsOIjgJbv4TcdJVpY4u4iIqCoJgxSLaxtjYmpikTWxCmtwvz01qvhx84Vwu99zn/J7nfY+wZfGfsmwLgVxC7Xxz9f5gY9D8chtLL/UJF97Webei00voEwoUhC+B8fkmDd3k2ccGtmVQbqgYkrpaMuTpbXmHbcsN40cKJXIWoymJ+Qd8WD5PdVvD1A0+rWlMjzini3+JrtAxGks3EP5JhFHizESGoNfiRFJjIq4Q8itdd5Jkt/M5S1I3XmKUXqD4kmixeXIVFw1riLGoG7ETqGW1mXuMnX+CEjiE5RltbxlbqKFJ9MJzitk8r8pXuTKn4vN2iarwT+GKCZlRNlzYFOsVcvYeEpafN79WOTB8kuszXoSi9HVaOHM0bZOLT28R9gSZiR9GN0yODx9hNBBl8VGKo1/LRO7cRQuGpFHRFTodrTbqZCpZ7i0+ZC4xS+53kfn9pzi4a6yV36zVUIPBAWHrBZqmji7prwvvWclnOJ2uEd5s4o5EEJVNwpevyWn0jEPsPNyqhk+TeZo2puzw7vRPIhcuIQoFdJdKPb3cuT0qA/V9a437SwukIudwxetogRDKvnGGpqZxj+xtOXMgYvCSr1fzfNvIMru+DdEYnvGkpNitQf+16dQf9R/aoaFBoioAAAAASUVORK5CYII=)](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
 [![node](https://img.shields.io/badge/-node-/?style=for-the-badge&color=339933&labelColor=ffffff&logoColor=339933&logoWidth=30&logo=node.js)](https://nodejs.org)
 [![express](https://img.shields.io/badge/-express-/?style=for-the-badge&color=37424d&labelColor=ffffff&logoColor=37424d&logoWidth=30&logo=express)](https://expressjs.com)
 [![mongodb](https://img.shields.io/badge/-mongodb-/?style=for-the-badge&color=47A248&labelColor=ffffff&logoColor=47A248&logoWidth=30&logo=mongodb)](https://www.mongodb.com)
@@ -32,7 +32,7 @@
 [![electron](https://img.shields.io/badge/-electron-/?style=for-the-badge&color=47848F&labelColor=ffffff&logoColor=47848F&logoWidth=30&logo=electron)](https://www.electronjs.org/)
 [![next](https://img.shields.io/badge/-next-/?style=for-the-badge&color=1d262c&labelColor=ffffff&logoColor=1d262c&logoWidth=30&logo=next.js)](https://nextjs.org/)
 [![nuxt](https://img.shields.io/badge/-nuxt-/?style=for-the-badge&color=468471&labelColor=ffffff&logoColor=468471&logoWidth=30&logo=nuxt.js)](https://nuxtjs.org)
-[![nest](https://img.shields.io/badge/-nest-/?style=for-the-badge&color=E0234E&labelColor=ffffff&logoColor=E0234E&logoWidth=30&logo=nestjs)](https://nestjs.com)
+[![nest](https://img.shields.io/badge/-nest-/?style=for-the-badge&color=E0234E&labelColor=ffffff&logoColor=E0234E&logoWidth=30&logo=nestjs)](https://nestjs.com) -->
 
 <br>
 
@@ -47,9 +47,9 @@
 [![babel](https://img.shields.io/badge/-babel-/?style=for-the-badge&color=yellow&labelColor=ffffff&logoColor=yellow&logoWidth=30&logo=babel)](https://babeljs.io)
 [![gulp](https://img.shields.io/badge/-gulp-/?style=for-the-badge&color=CF4647&labelColor=ffffff&logoColor=CF4647&logoWidth=30&logo=gulp)](https://gulpjs.com)
 [![webpack](https://img.shields.io/badge/-webpack-/?style=for-the-badge&color=5399c8&labelColor=ffffff&logoColor=5399c8&logoWidth=30&logo=webpack)](https://webpack.js.org)
-[![docker](https://img.shields.io/badge/-docker-/?style=for-the-badge&color=2496ED&labelColor=ffffff&logoColor=2496ED&logoWidth=30&logo=docker)](https://www.docker.com)
+<!-- [![docker](https://img.shields.io/badge/-docker-/?style=for-the-badge&color=2496ED&labelColor=ffffff&logoColor=2496ED&logoWidth=30&logo=docker)](https://www.docker.com)
 [![jest](https://img.shields.io/badge/-jest-/?style=for-the-badge&color=913f57&labelColor=ffffff&logoColor=913f57&logoWidth=30&logo=jest)](https://jestjs.io)
-[![jasmine](https://img.shields.io/badge/-jasmine-/?style=for-the-badge&color=833e7c&labelColor=ffffff&logoColor=833e7c&logoWidth=30&logo=jasmine)](https://jasmine.github.io)
+[![jasmine](https://img.shields.io/badge/-jasmine-/?style=for-the-badge&color=833e7c&labelColor=ffffff&logoColor=833e7c&logoWidth=30&logo=jasmine)](https://jasmine.github.io) -->
 
 <br>
 
