@@ -84,13 +84,17 @@
   </a>
 </p>
 <hr>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=alkhimenok" alt="wakatime-stats"/>
-</a>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="95%" src="https://github-readme-stats.vercel.app/api/wakatime?username=alkhimenok" alt="wakatime-stats"/>
+  </a>
+</p>
 <hr>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://activity-graph.herokuapp.com/graph?username=alkhimenok&&bg_color=fefefe&color=333333&line=4677c0&point=333333&area=true&area_color=4677c0" alt="activity-graph"/>
-</a>
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img width="95%" src="https://activity-graph.herokuapp.com/graph?username=alkhimenok&&bg_color=fefefe&color=333333&line=4677c0&point=333333&area=true&area_color=4677c0" alt="activity-graph"/>
+  </a>
+</p>
 <hr>
 <p align="center">
   <a href="https://www.codewars.com/users/alkhimenok">
