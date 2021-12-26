@@ -76,10 +76,10 @@
 
 <p align="center" >
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img class="card" width=37.5% src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkhimenok" alt="top-langs stats" />
+    <img class="card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkhimenok" alt="top-langs stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img class="card" width=61.9% src="https://github-readme-stats.vercel.app/api?username=alkhimenok&show_icons=true&line_height=40" alt="stats" />
+    <img class="card" src="https://github-readme-stats.vercel.app/api?username=alkhimenok&show_icons=true&line_height=40" alt="stats" />
   </a>
 </p>
 <hr>
