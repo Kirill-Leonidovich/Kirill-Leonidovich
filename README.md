@@ -14,8 +14,9 @@
 [![materialize](https://img.shields.io/badge/-materialize-/?style=for-the-badge&color=e66c73&labelColor=ffffff&logoColor=e66c73&logoWidth=30&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAOCAYAAAA8E3wEAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAALMSURBVHgBlVRdSBRRFD7nzuzs7K6tWrYUiAjRi1QQCBb9YVE9BJEEQk/lk2+hBZH0ohQRaERQ9FYU4YPUSz2YBPZSWUE/EGFYQVIpibrr/u/OzDndmXbGGWof9i4795x7z/2+c75zZxCqjOX+gT0EPMnMqu1jJAKxtm3fdRO3Y09Xyl5bOnP+OhGfds9ozS2grd8wFDl5fLAarqi2YbHV65LZI5TYCNJvzaDVbfvJvr4GIup191n+Qk0JRiH6eWxMq5lQoDjo95VYzJlVBTqdhFCXM4a9hOINDEIgMcVLZf1ATYSZswNtxJxwfQyHQeiRSim420kAaFfgUN0adE1mYyfUQlgg6AgEhXX2yBGb+e6jFgswQKjG6jxbMm+BWghDyHv9vhKv92XPUFDNdtmyrQGgaNRLihD3Qy2EJtOmAGFIm/b71kqmW6LHXF9W/QMUZckLIK7n0WdN/8NWi/ceHJby7HPYJb0g/JR9/2aHfCVWg2L6DQK46fpslA75QZBhWhGyq0Teein3s2eh75wmKolJiRZCSvS+Gi60Thajs0NSqQ6WqKZRZnlh0Ae3BGrdBEpUW06ngGKxMZA2wjQy56TlERZ+zV9AwHp2tlHeati87urgosDedgMJ7nhq5LMBLAXho36q6xsB/fZiMmn2x5TZfCqT/Oxfs9LJuGczTyauXfnqqGg/wpry2C3JSKfRf5ABn1eMDx5AIY+rxQE0hvQZvWHtuOxlJekcMJEXowrx0rUdQjxxbE52ftbBzecgoJYKU04gKs5sZaUCluULgBl9+NIXPNq5KCWfdwiLBQgOXg4Q/i2A31GpCJTL+KqDfOPw5XHb1lXtiV0B5fMBOWUZL3zOQ3sy06kAXUQJvfqHEAhGzVTSbk5Gkjt/ZLyF9h10VDjyWt6aCWNhLuvuC8QVEOaIC6Eq6m0yyikzmfQw5NfubXTk4pQb8we5ADCOclbEOgAAAABJRU5ErkJggg==)](https://materializecss.com)
 [![javascript](https://img.shields.io/badge/-javascript-/?style=for-the-badge&color=yellow&labelColor=ffffff&logoColor=yellow&logoWidth=30&logo=javascript)](https://learn.javascript.ru)
 [![typescript](https://img.shields.io/badge/-typescript-/?style=for-the-badge&color=3178C6&labelColor=ffffff&logoColor=3178C6&logoWidth=30&logo=typescript)](https://www.typescriptlang.org)
-[![ejs](https://img.shields.io/badge/-ejs-/?style=for-the-badge&color=ab3e51&labelColor=ffffff&logoColor=3178C6&logoWidth=30&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEgSURBVHgB3VHLTcNAFJy3DieQCBXgDnABYOwObEQiccKpIO4ASkgHCSck++ClApyEe1owHRgp4gD2e+wixeJiJA5c8k6rGc1Hs8B+XBFEwz6O+ojcv7oTYY9Aw60j8aTUde7Hm62S0L5Vb4pIMF7rmEmWRy1dZhdRYsAnK7L0oEsIooBaNW1atsLQYlkQeWByjUlJRGnzIZOuan5uBKSmTPxKDD160aUlHoPIdRipqbQRKJfAFQtICO67wuy7qqnjKVHHMkC9c7wpdTVe6dRRWAokgeDNBJyRoDpk3Hfj2GRRSIzl6WhdhDs88+OFgjyL4ESA+sCBbloU3Ti2oklI7II/hnKVkFyv9ENjBGbh20+mGREW+MvNzeLzX/72f+8LprZ9yVVem2IAAAAASUVORK5CYII=)](https://ejs.co)
-<!-- [![pug](https://img.shields.io/badge/-pug-/?style=for-the-badge&color=A86454&labelColor=ffffff&logoColor=A86454&logoWidth=30&logo=pug)](https://pugjs.org)
+[![ejs](https://img.shields.io/badge/-ejs-/?style=for-the-badge&color=ab3e51&labelColor=ffffff&logoColor=ab3e51&logoWidth=30&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEgSURBVHgB3VHLTcNAFJy3DieQCBXgDnABYOwObEQiccKpIO4ASkgHCSck++ClApyEe1owHRgp4gD2e+wixeJiJA5c8k6rGc1Hs8B+XBFEwz6O+ojcv7oTYY9Aw60j8aTUde7Hm62S0L5Vb4pIMF7rmEmWRy1dZhdRYsAnK7L0oEsIooBaNW1atsLQYlkQeWByjUlJRGnzIZOuan5uBKSmTPxKDD160aUlHoPIdRipqbQRKJfAFQtICO67wuy7qqnjKVHHMkC9c7wpdTVe6dRRWAokgeDNBJyRoDpk3Hfj2GRRSIzl6WhdhDs88+OFgjyL4ESA+sCBbloU3Ti2oklI7II/hnKVkFyv9ENjBGbh20+mGREW+MvNzeLzX/72f+8LprZ9yVVem2IAAAAASUVORK5CYII=)](https://ejs.co)
+[![pug](https://img.shields.io/badge/-pug-/?style=for-the-badge&color=52302a&labelColor=ffffff&logoColor=52302a&logoWidth=30&logo=pug)](https://pugjs.org)
+[![canvas](https://img.shields.io/badge/-canvas-/?style=for-the-badge&color=62a84c&labelColor=ffffff&logoColor=62a84c&logoWidth=30&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAIESURBVHgBhZK9a1NRGMZ/J/feJM0XwRiTlgarNda2ImKri1gQl+Li4KKDqJsOIjgJbv4TcdJVpY4u4iIqCoJgxSLaxtjYmpikTWxCmtwvz01qvhx84Vwu99zn/J7nfY+wZfGfsmwLgVxC7Xxz9f5gY9D8chtLL/UJF97Webei00voEwoUhC+B8fkmDd3k2ccGtmVQbqgYkrpaMuTpbXmHbcsN40cKJXIWoymJ+Qd8WD5PdVvD1A0+rWlMjzini3+JrtAxGks3EP5JhFHizESGoNfiRFJjIq4Q8itdd5Jkt/M5S1I3XmKUXqD4kmixeXIVFw1riLGoG7ETqGW1mXuMnX+CEjiE5RltbxlbqKFJ9MJzitk8r8pXuTKn4vN2iarwT+GKCZlRNlzYFOsVcvYeEpafN79WOTB8kuszXoSi9HVaOHM0bZOLT28R9gSZiR9GN0yODx9hNBBl8VGKo1/LRO7cRQuGpFHRFTodrTbqZCpZ7i0+ZC4xS+53kfn9pzi4a6yV36zVUIPBAWHrBZqmji7prwvvWclnOJ2uEd5s4o5EEJVNwpevyWn0jEPsPNyqhk+TeZo2puzw7vRPIhcuIQoFdJdKPb3cuT0qA/V9a437SwukIudwxetogRDKvnGGpqZxj+xtOXMgYvCSr1fzfNvIMru+DdEYnvGkpNitQf+16dQf9R/aoaFBoioAAAAASUVORK5CYII=)](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
 [![node](https://img.shields.io/badge/-node-/?style=for-the-badge&color=339933&labelColor=ffffff&logoColor=339933&logoWidth=30&logo=node.js)](https://nodejs.org)
 [![express](https://img.shields.io/badge/-express-/?style=for-the-badge&color=37424d&labelColor=ffffff&logoColor=37424d&logoWidth=30&logo=express)](https://expressjs.com)
 [![mongodb](https://img.shields.io/badge/-mongodb-/?style=for-the-badge&color=47A248&labelColor=ffffff&logoColor=47A248&logoWidth=30&logo=mongodb)](https://www.mongodb.com)
@@ -25,13 +26,13 @@
 [![react](https://img.shields.io/badge/-react-/?style=for-the-badge&color=5cb6d0&labelColor=ffffff&logoColor=5cb6d0&logoWidth=30&logo=react)](https://reactjs.org)
 [![redux](https://img.shields.io/badge/-redux-/?style=for-the-badge&color=764ABC&labelColor=ffffff&logoColor=764ABC&logoWidth=30&logo=redux)](https://redux.js.org)
 [![gatsby](https://img.shields.io/badge/-gatsby-/?style=for-the-badge&color=663399&labelColor=ffffff&logoColor=663399&logoWidth=30&logo=gatsby)](https://www.gatsbyjs.com)
-[![vue](https://img.shields.io/badge/-vue-/?style=for-the-badge&color=4FC08D&labelColor=ffffff&logoColor=4FC08D&logoWidth=30&logo=vue.js)](https://vuejs.org)
+[![vue](https://img.shields.io/badge/-vue-/?style=for-the-badge&color=65b37e&labelColor=ffffff&logoColor=65b37e&logoWidth=30&logo=vue.js)](https://vuejs.org)
 [![angular](https://img.shields.io/badge/-angular-/?style=for-the-badge&color=DD0031&labelColor=ffffff&logoColor=DD0031&logoWidth=30&logo=angular)](https://angular.io)
 [![react native](https://img.shields.io/badge/-react_native-/?style=for-the-badge&color=5cb6d0&labelColor=ffffff&logoColor=5cb6d0&logoWidth=30&logo=createreactapp)](https://reactnative.dev)
 [![electron](https://img.shields.io/badge/-electron-/?style=for-the-badge&color=47848F&labelColor=ffffff&logoColor=47848F&logoWidth=30&logo=electron)](https://www.electronjs.org/)
 [![next](https://img.shields.io/badge/-next-/?style=for-the-badge&color=1d262c&labelColor=ffffff&logoColor=1d262c&logoWidth=30&logo=next.js)](https://nextjs.org/)
-[![nuxt](https://img.shields.io/badge/-nuxt-/?style=for-the-badge&color=00DC82&labelColor=ffffff&logoColor=00DC82&logoWidth=30&logo=nuxt.js)](https://nuxtjs.org)
-[![nest](https://img.shields.io/badge/-nest-/?style=for-the-badge&color=E0234E&labelColor=ffffff&logoColor=E0234E&logoWidth=30&logo=nestjs)](https://nestjs.com) -->
+[![nuxt](https://img.shields.io/badge/-nuxt-/?style=for-the-badge&color=468471&labelColor=ffffff&logoColor=468471&logoWidth=30&logo=nuxt.js)](https://nuxtjs.org)
+[![nest](https://img.shields.io/badge/-nest-/?style=for-the-badge&color=E0234E&labelColor=ffffff&logoColor=E0234E&logoWidth=30&logo=nestjs)](https://nestjs.com)
 
 <br>
 
@@ -74,37 +75,28 @@
 
 ### Stats:
 
-<p align="center" >
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img class="card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkhimenok" alt="top-langs stats" />
+<p style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
+  <a style="width: 37%;" href="https://github.com/anuraghazra/github-readme-stats">
+    <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkhimenok" alt="top-langs stats" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img class="card" src="https://github-readme-stats.vercel.app/api?username=alkhimenok&show_icons=true&line_height=40" alt="stats" />
+  <a style="width: 61%;" href="https://github.com/anuraghazra/github-readme-stats">
+    <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api?username=alkhimenok&show_icons=true&line_height=40" alt="stats" />
   </a>
 </p>
 <hr>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img class="card" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=alkhimenok" alt="wakatime-stats"/>
+  <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=alkhimenok" alt="wakatime-stats"/>
 </a>
 <hr>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img class="card" width=100% src="https://activity-graph.herokuapp.com/graph?username=alkhimenok&&bg_color=fefefe&color=333333&line=4677c0&point=333333&area=true&area_color=4677c0" alt="activity-graph"/>
+  <img style="display: block; width: 100%; border-radius: calc(0px + 10 * (100vw / 1280)); overflow: hidden;" src="https://activity-graph.herokuapp.com/graph?username=alkhimenok&&bg_color=fefefe&color=333333&line=4677c0&point=333333&area=true&area_color=4677c0" alt="activity-graph"/>
 </a>
 <hr>
 <p align="center">
   <a href="https://www.codewars.com/users/alkhimenok">
-    <img class="card" src="https://www.codewars.com/users/alkhimenok/badges/large?theme=light" alt="codewars"/>
+    <img src="https://www.codewars.com/users/alkhimenok/badges/large?theme=light" alt="codewars"/>
   </a>
 </p>
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alkhimenok)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alkhimenok)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alkhimenok&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=alkhimenok&&bg_color=fefefe&color=333333&line=4677c0&point=333333&area=true&area_color=4677c0)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-
-<!-- [![Codewars](https://www.codewars.com/users/alkhimenok/badges/large?theme=light)](https://www.codewars.com/users/alkhimenok) -->
 
 <br>
 
