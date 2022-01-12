@@ -47,7 +47,6 @@
 [![babel](https://img.shields.io/badge/-babel-/?style=for-the-badge&color=yellow&labelColor=ffffff&logoColor=yellow&logoWidth=30&logo=babel)](https://babeljs.io)
 [![gulp](https://img.shields.io/badge/-gulp-/?style=for-the-badge&color=CF4647&labelColor=ffffff&logoColor=CF4647&logoWidth=30&logo=gulp)](https://gulpjs.com)
 [![webpack](https://img.shields.io/badge/-webpack-/?style=for-the-badge&color=5399c8&labelColor=ffffff&logoColor=5399c8&logoWidth=30&logo=webpack)](https://webpack.js.org)
-
 <!-- [![docker](https://img.shields.io/badge/-docker-/?style=for-the-badge&color=2496ED&labelColor=ffffff&logoColor=2496ED&logoWidth=30&logo=docker)](https://www.docker.com)
 [![jest](https://img.shields.io/badge/-jest-/?style=for-the-badge&color=913f57&labelColor=ffffff&logoColor=913f57&logoWidth=30&logo=jest)](https://jestjs.io)
 [![jasmine](https://img.shields.io/badge/-jasmine-/?style=for-the-badge&color=833e7c&labelColor=ffffff&logoColor=833e7c&logoWidth=30&logo=jasmine)](https://jasmine.github.io) -->
@@ -78,7 +77,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkhimenok" alt="top-langs stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkhimenok&langs_count=10" alt="top-langs stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=alkhimenok&show_icons=true&line_height=40" alt="stats" />
