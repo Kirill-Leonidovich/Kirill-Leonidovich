@@ -21,6 +21,7 @@
 [![styled-components](https://img.shields.io/badge/-styled--components-/?style=for-the-badge&color=DB7093&labelColor=ffffff&logoColor=DB7093&logoWidth=30&logo=styled-components)](https://styled-components.com)
 [![node](https://img.shields.io/badge/-node-/?style=for-the-badge&color=339933&labelColor=ffffff&logoColor=339933&logoWidth=30&logo=node.js)](https://nodejs.org)
 [![express](https://img.shields.io/badge/-express-/?style=for-the-badge&color=37424d&labelColor=ffffff&logoColor=37424d&logoWidth=30&logo=express)](https://expressjs.com)
+
 <!-- [![mongodb](https://img.shields.io/badge/-mongodb-/?style=for-the-badge&color=47A248&labelColor=ffffff&logoColor=47A248&logoWidth=30&logo=mongodb)](https://www.mongodb.com)
 [![jwt](https://img.shields.io/badge/-jwt-/?style=for-the-badge&color=d171f2&labelColor=ffffff&logoColor=d171f2&logoWidth=30&logo=jsonwebtokens)](https://jwt.io/)
 [![webgl](https://img.shields.io/badge/-webgl-/?style=for-the-badge&color=990000&labelColor=ffffff&logoColor=990000&logoWidth=30&logo=webgl)](https://www.khronos.org/webgl)
@@ -43,11 +44,13 @@
 [![npm](https://img.shields.io/badge/-npm-/?style=for-the-badge&color=CB3837&labelColor=ffffff&logoColor=CB3837&logoWidth=30&logo=npm)](https://www.npmjs.com)
 [![git](https://img.shields.io/badge/-git-/?style=for-the-badge&color=F05032&labelColor=ffffff&logoColor=F05032&logoWidth=30&logo=git)](https://git-scm.com)
 [![github](https://img.shields.io/badge/-github-/?style=for-the-badge&color=181717&labelColor=ffffff&logoColor=181717&logoWidth=30&logo=github)](https://github.com)
+[![gitlab](https://img.shields.io/badge/-gitlab-/?style=for-the-badge&color=FCA121&labelColor=ffffff&logoColor=FCA121&logoWidth=30&logo=gitlab)](https://gitlab.com)
 [![stylelint](https://img.shields.io/badge/-stylelint-/?style=for-the-badge&color=263238&labelColor=ffffff&logoColor=263238&logoWidth=30&logo=stylelint)](https://stylelint.io)
 [![eslint](https://img.shields.io/badge/-eslint-/?style=for-the-badge&color=4B32C3&labelColor=ffffff&logoColor=4B32C3&logoWidth=30&logo=eslint)](https://eslint.org)
 [![babel](https://img.shields.io/badge/-babel-/?style=for-the-badge&color=yellow&labelColor=ffffff&logoColor=yellow&logoWidth=30&logo=babel)](https://babeljs.io)
 [![gulp](https://img.shields.io/badge/-gulp-/?style=for-the-badge&color=CF4647&labelColor=ffffff&logoColor=CF4647&logoWidth=30&logo=gulp)](https://gulpjs.com)
 [![webpack](https://img.shields.io/badge/-webpack-/?style=for-the-badge&color=5399c8&labelColor=ffffff&logoColor=5399c8&logoWidth=30&logo=webpack)](https://webpack.js.org)
+
 <!-- [![docker](https://img.shields.io/badge/-docker-/?style=for-the-badge&color=2496ED&labelColor=ffffff&logoColor=2496ED&logoWidth=30&logo=docker)](https://www.docker.com)
 [![jest](https://img.shields.io/badge/-jest-/?style=for-the-badge&color=913f57&labelColor=ffffff&logoColor=913f57&logoWidth=30&logo=jest)](https://jestjs.io)
 [![jasmine](https://img.shields.io/badge/-jasmine-/?style=for-the-badge&color=833e7c&labelColor=ffffff&logoColor=833e7c&logoWidth=30&logo=jasmine)](https://jasmine.github.io) -->
