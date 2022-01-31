@@ -44,7 +44,7 @@
 [![npm](https://img.shields.io/badge/-npm-/?style=for-the-badge&color=CB3837&labelColor=ffffff&logoColor=CB3837&logoWidth=30&logo=npm)](https://www.npmjs.com)
 [![git](https://img.shields.io/badge/-git-/?style=for-the-badge&color=F05032&labelColor=ffffff&logoColor=F05032&logoWidth=30&logo=git)](https://git-scm.com)
 [![github](https://img.shields.io/badge/-github-/?style=for-the-badge&color=181717&labelColor=ffffff&logoColor=181717&logoWidth=30&logo=github)](https://github.com)
-[![gitlab](https://img.shields.io/badge/-gitlab-/?style=for-the-badge&color=FCA121&labelColor=ffffff&logoColor=FCA121&logoWidth=30&logo=gitlab)](https://gitlab.com)
+[![gitlab](https://img.shields.io/badge/-gitlab-/?style=for-the-badge&color=e76b26&labelColor=ffffff&logoColor=e24d29&logoWidth=30&logo=gitlab)](https://gitlab.com)
 [![stylelint](https://img.shields.io/badge/-stylelint-/?style=for-the-badge&color=263238&labelColor=ffffff&logoColor=263238&logoWidth=30&logo=stylelint)](https://stylelint.io)
 [![eslint](https://img.shields.io/badge/-eslint-/?style=for-the-badge&color=4B32C3&labelColor=ffffff&logoColor=4B32C3&logoWidth=30&logo=eslint)](https://eslint.org)
 [![babel](https://img.shields.io/badge/-babel-/?style=for-the-badge&color=yellow&labelColor=ffffff&logoColor=yellow&logoWidth=30&logo=babel)](https://babeljs.io)
