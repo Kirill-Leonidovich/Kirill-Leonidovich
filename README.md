@@ -59,6 +59,7 @@
 
 ### Follow me:
 
+[![linkedin](https://img.shields.io/badge/-linkedin-/?style=for-the-badge&color=0A66C2&labelColor=ffffff&logoColor=0A66C2&logoWidth=30&logo=linkedin)](https://www.linkedin.com/in/kirill-alkhimenok-a58524220)
 [![telegram](https://img.shields.io/badge/-telegram-/?style=for-the-badge&color=26A5E4&labelColor=ffffff&logoColor=26A5E4&logoWidth=30&logo=telegram)](https://t.me/alkhimenok)
 [![facebook](https://img.shields.io/badge/-facebook-/?style=for-the-badge&color=1877F2&labelColor=ffffff&logoColor=1877F2&logoWidth=30&logo=facebook)](https://www.facebook.com/alkhimenok)
 [![instagram](https://img.shields.io/badge/-instagram-/?style=for-the-badge&color=E4405F&labelColor=ffffff&logoColor=E4405F&logoWidth=30&logo=instagram)](https://www.instagram.com/alkhimenokk)
@@ -68,7 +69,6 @@
 
 ### Other:
 
-[![linkedin](https://img.shields.io/badge/-linkedin-/?style=for-the-badge&color=0A66C2&labelColor=ffffff&logoColor=0A66C2&logoWidth=30&logo=linkedin)](https://www.linkedin.com/in/kirill-alkhimenok-a58524220)
 [![codewars](https://img.shields.io/badge/-codewars-/?style=for-the-badge&color=B1361E&labelColor=ffffff&logoColor=B1361E&logoWidth=30&logo=codewars)](https://www.codewars.com/users/alkhimenok)
 [![stackoverflow](https://img.shields.io/badge/-stackoverflow-/?style=for-the-badge&color=F58025&labelColor=ffffff&logoColor=F58025&logoWidth=30&logo=stackoverflow)](https://ru.stackoverflow.com/users/466343/alkhimenok)
 [![skillotron](https://img.shields.io/badge/-skillotron-/?style=for-the-badge&color=13171b&labelColor=ffffff&logoColor=13171b&logoWidth=30&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEKSURBVHgBjZJRTsMwDIZtZxJF1aRIIFTBS28AR+iO0BvAScbNgBtwA/K4N4xQBRNaTNw2W1cl2ixVie3/s123BjJ2fXO7Lspl89N9v6XyJgcJ4jMiNpflElKwyUHRz8F4Vd09ipd6VFkEuB9TDKKHWPVEZA8i4QfaqqpJ6AUB61lzN55HcQFxHv2KeLPpLxqAExYhZUgDZ8Ls/V+rWnUW00wY1wUY5mNrQdJ3NoZjjGZVm14owFNoKAgPU+Ec7Lt52rUwLMcR+idI2ALS5nbbru1vRWHNMMlruuNvwXE55M3aXJSf+pAffoYwqo2LOQKZHec2G6B3v+1W6Y5w+CyI8LUPIrFCHGyq/QdwPo0+qrgxpAAAAABJRU5ErkJggg==)](https://skillotron.com/profile/197534)
