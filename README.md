@@ -44,7 +44,6 @@
 
 [![prettier](https://img.shields.io/badge/-prettier-/?style=for-the-badge&color=yellow&labelColor=ffffff&logoColor=yellow&logoWidth=30&logo=prettier)](https://prettier.io)
 [![npm](https://img.shields.io/badge/-npm-/?style=for-the-badge&color=CB3837&labelColor=ffffff&logoColor=CB3837&logoWidth=30&logo=npm)](https://www.npmjs.com)
-[![yarn](https://img.shields.io/badge/-yarn-/?style=for-the-badge&color=2C8EBB&labelColor=ffffff&logoColor=2C8EBB&logoWidth=30&logo=yarn)](https://www.npmjs.com)
 [![git](https://img.shields.io/badge/-git-/?style=for-the-badge&color=F05032&labelColor=ffffff&logoColor=F05032&logoWidth=30&logo=git)](https://git-scm.com)
 [![github](https://img.shields.io/badge/-github-/?style=for-the-badge&color=181717&labelColor=ffffff&logoColor=181717&logoWidth=30&logo=github)](https://github.com)
 [![gitlab](https://img.shields.io/badge/-gitlab-/?style=for-the-badge&color=e76b26&labelColor=ffffff&logoColor=e76b26&logoWidth=30&logo=gitlab)](https://gitlab.com)
